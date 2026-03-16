@@ -13,3 +13,8 @@ Building a backend project for a supplement store system with database modeling 
 
 ## Learning
 Currently studying Git, GitHub and backend development with Java.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/pedro-borella-dev/
+- GitHub: https://github.com/PedroBorella89
