@@ -1,16 +1,15 @@
-## Hi there 👋
+# Pedro
 
-<!--
-**PedroBorella89/PedroBorella89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on backend development.
 
-Here are some ideas to get you started:
+## Technologies
+- Java
+- SQL
+- Python
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+Building a backend project for a supplement store system with database modeling and business logic.
+
+## Learning
+Currently studying Git, GitHub and backend development with Java.
